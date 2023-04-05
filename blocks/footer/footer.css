@@ -1,0 +1,22 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 78px;
+    margin: 0px 28px 64px;
+
+    max-width: 744px;
+    height: 242px;
+
+    background: #FFFFFF;
+    border-radius: 30px;
+
+    /* Inside auto layout */
+}
+
+
+.footer__img {
+    width: 250px;
+    height: 45px;
+}

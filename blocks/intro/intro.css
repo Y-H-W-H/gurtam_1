@@ -1,0 +1,27 @@
+.intro {
+    display: block;
+    margin: 64px 28px 64px;
+    max-width: 744px;
+    background: #2300BD;
+    border-radius: 30px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+
+.intro__link {
+    text-decoration-color: antiquewhite;
+    color: antiquewhite;
+}
+
+
+
+
+
+@media screen and (min-width: 321px) and (max-width: 768px) {
+    .intro {}
+}
+
+@media screen and (max-width: 320px) {
+    .intro {}
+
+}
