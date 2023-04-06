@@ -14,7 +14,7 @@
 
 }
 
-@media screen and (max-width: 475px) {
+@media screen and (max-width: 474px) {
     .intro__text {
         font-size: 20px;
         padding: 46px 58px;
